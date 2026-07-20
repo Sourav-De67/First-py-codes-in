@@ -1,3 +1,12 @@
 {
-    "C_Cpp.default.compilerPath": "C:/MinGW/bin/gcc.exe"
+    "C_Cpp.default.compilerPath": "C:/MinGW/bin/gcc.exe",
+    "editor.inlineSuggest.enabled": false,
+    "editor.quickSuggestions": {
+        "other": "off",
+        "comments": "off",
+        "strings": "off"
+    },
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.parameterHints.enabled": false,
+    "antigravity.inlineCompletion.enabled": false
 }
