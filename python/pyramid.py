@@ -1,4 +1,4 @@
-n=5
+n=int(input('Enter a number :'))
 i=1
 while i<=n:
     space=1
