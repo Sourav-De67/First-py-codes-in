@@ -1,5 +1,5 @@
-n1=float(input("Enter a number :"))
-n2=float(input("Enter a number :"))
+n1=float(input("Enter first number :"))
+n2=float(input("Enter second number :"))
 print('1.Addition 2.substraction 3.Multiplication 4.Divition')
 choice=int(input("Enter your choice :"))
 if choice==1:
