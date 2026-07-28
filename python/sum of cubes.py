@@ -4,4 +4,4 @@ sum=0
 while i<=n:
     sum=sum+i**3
     i+=1
-print("sum of squares is ",sum)
+print("sum of cubes is ",sum)

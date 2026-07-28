@@ -1,6 +1,6 @@
 ch=input('Enter a single charecter: ')
 if len(ch)!=1:
-    print("Enter a single charecter")
+    print(" Please Enter a single charecter")
 elif ch.isupper():
     print(f"{ch} is a upper case charecter")
 elif ch.islower():
