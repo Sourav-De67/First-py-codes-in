@@ -1,4 +1,4 @@
-a=[1,2,3,23,4]
+a=[1,2,3,23,]
 for i in range (len(a)-1):
     if a[i]<a[i+1]:
         continue
